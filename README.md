@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marlon
-- 👀 I’m interested in Deep learning neural nets and AI
-- 🌱 I’m currently learning Python, C#, XML, SQL
+- 👀 I’m interested in machine learning, neural nets and AI
+- 🌱 I’m currently learning Python, Java, JavaScript
 - 💞️ I’m looking to collaborate on a simple evolutionary bot program
 - 📫 How to reach me marlonmountjoy@gmail.com
 
